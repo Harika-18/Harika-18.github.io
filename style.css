@@ -1,6 +1,11 @@
 @media only screen and (max-width: 500px){
 #projects{
 	font-size: 20px;
+
+}
+.skill
+{
+	text-align: center;
 }
 }
 
