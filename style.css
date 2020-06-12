@@ -5,7 +5,7 @@
 }
 .skill
 {
-	text-align: center;
+	text-align: center !important;
 }
 body img
 {
