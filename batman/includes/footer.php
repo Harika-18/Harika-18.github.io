@@ -2,5 +2,5 @@
         <img src="img/batmanlogo.png" width=100px alt="" >
         <br>
         <br>
-        Copyright Batman Corp.
+&copy; 2020 Harika Bonala
     </footer>
