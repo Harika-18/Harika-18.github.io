@@ -1,0 +1,48 @@
+body{
+	overflow-x:hidden;
+}
+.nav-wrapper{
+	background-color: white;
+}
+nav ul a{
+	color:black;
+	font-weight: 600;
+	font-size: 20px;
+}
+nav ul a:hover{
+	background-color: #FF8C00;
+}
+.para{
+	height:100vh !important;
+}
+.slider .indicators .indicator-item.active{
+	background-color:#FF8C00;
+}
+.heading{
+	font-weight: 550;
+	  font-family: 'Playfair Display';
+	  font-size: 40px;
+}
+.icon-computer{
+	color:#FF8C00;
+	padding-top: 15px;
+}
+hr{
+	height:10px;
+	background-color: #FF8C00;
+}
+.parallax-container{
+	min-height: 280px;
+	height: auto;
+}
+.fclubs .card  .card-title{
+	color:black;
+	font-weight: 500;
+}
+.footer{
+	background-color: #FF6d00;
+	color:white;
+}
+.icon-footer{
+	color:white;
+}
